@@ -1,2 +1,3 @@
 # hello-world
-This is for the tutorial
+This intended for the tutorial
+More stuff that's very interesting!
